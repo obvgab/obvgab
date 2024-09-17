@@ -1,5 +1,5 @@
 ### やっほー! Ciao! Hello! 👋
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=obvgab&color=%235865F2&logo=discord&style=for-the-badge)](https://discord.com/users/249531123019939860) [![](https://img.shields.io/static/v1?label=Website&message=binarysky.ai&color=%23FF3DCD&style=for-the-badge)](https://binarysky.ai)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=obvgab&color=%235865F2&logo=discord&style=for-the-badge)](https://discord.com/users/249531123019939860) <!-- [![](https://img.shields.io/static/v1?label=Website&message=binarysky.ai&color=%23FF3DCD&style=for-the-badge)](https://binarysky.ai) I need to repair my website 😭 -->
 
 I'm **Gabriel, a CS student** in Los Angeles. Currently, I'm studying machine learning, biomedical engineering and software engineering.
 
