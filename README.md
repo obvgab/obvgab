@@ -6,7 +6,6 @@ I'm **Gabriel, a CS student** in Los Angeles. Currently, I'm studying machine le
 I am primarily a Swift Developer, focusing on arm64 platforms on Darwin. I've also dabbled in Rust, Crystal, JS, and Python~
 <br>I love learning languages, both programming and natural, so I'd love any tips/lessons on languages you're passionate about!
 
-Currently figuring out some App Store apps and ASWF Swift Workgroup!
-
+<!-- No status at the moment because of school :/ -->
 <!-- this is basically just caoimhebyme's README, thought the thing was rlly cool! -->
 [![My Skills](https://skillicons.dev/icons?i=swift,rust,docker,crystal,bash,bevy,postgres,pytorch,linux)](https://skillicons.dev)
