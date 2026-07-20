@@ -1,6 +1,6 @@
 ### やっほー! Ciao! Hello! 👋
 
-I'm **Gabriel, a frameworks engineer** in San Jose.
+I'm **Gabriel, a frameworks engineer** at Apple.
 
 I am primarily a Swift Developer, focusing on arm64 platforms on Darwin. I've also dabbled in Rust, Crystal, JS, and Python~
 <br>I love learning languages, both programming and natural, so I'd love any tips/lessons on languages you're passionate about!
